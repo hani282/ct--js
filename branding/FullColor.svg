@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="512"
-    height="512"
-    viewBox="0 0 512 512"
-    preserveAspectRatio="xMidYMid meet">
-
-    <image 
-        href="https://raw.githubusercontent.com/hani282/ct--js/154679a0c108524714383b32be0fc38ead9bad57/branding/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.svg"
-        width="100%"
-        height="100%"
-    />
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="50">
+  <text x="0" y="35" font-family="Arial, sans-serif" font-size="40" fill="#1E90FF">game</text>
+  <text x="120" y="35" font-family="Arial, sans-serif" font-size="40" fill="#FFD700">+</text>
 </svg>
